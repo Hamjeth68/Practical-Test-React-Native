@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "practical-test",
+    "slug": "practical-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
